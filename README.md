@@ -11,3 +11,5 @@ Email: user@gmail.com
 Password: 123456
 
 There is still big room for improvement in this project and I may be adding new functionality soon...
+
+Web App si currently available on netlify: https://starlit-bonbon-fe34b3.netlify.app/
